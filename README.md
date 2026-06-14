@@ -24,7 +24,7 @@ soluciones digitales completas a negocios reales en México y EE.UU.
 |----------|-------------|-------|
 | [Hinsdale Humane Society](https://hinsdalehumanesociety.org) | API REST integration para ONG en EE.UU. — automatización de 100+ registros de adopción | PHP · WordPress · Shelterluv API |
 | [OLSO Decora](https://olsodecora.com) | Rehabilitación de e-commerce — -35% tiempo de carga, +40% tráfico orgánico | WordPress · WooCommerce · SEO |
-| [Kamala Acalé](https://kamalaacale.mx) | E-commerce desde cero para joyería artesanal — 200+ productos | WooCommerce · Stripe · PayPal |
+| [ADM Energy](https://admenergy.com.mx) | Bitrix24 CRM end-to-end — pipelines, automatizaciones y reportes gerenciales · 2 años como único responsable técnico | Bitrix24 · APIs · WordPress |
 
 ---
 
